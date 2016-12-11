@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Generation Z]]></title>
+        <description><![CDATA[Generation Z]]></description>
+        <link>http://generationz.link/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 11 Dec 2016 12:13:08 GMT</lastBuildDate>
+        <atom:link href="http://generationz.link/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is it up to Generation ]]></title>
+            <description><![CDATA[<article><h1>Is it up to Generation </h1><p>Is it up to Generation Z to change the world? </p></article>]]></description>
+            <link>http://generationz.link/is-it-up-to-generation/index.html</link>
+            <guid isPermaLink="false">7a2b286c-14a8-4cf2-8df6-ea36cef20628</guid>
+            <pubDate>Sun, 11 Dec 2016 12:12:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
