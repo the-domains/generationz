@@ -1,0 +1,20 @@
+typography_spectrum: 0.5265802855137736
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.09649669635109603
+  lightness: 0.9782488839700818
+  saturation: 0.7111775896046311
+  rhythmicContrast: 0.5989910732023418
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+github: true
+layout_spectrum: 0.43473972543142736
+name: GenerationZ
+title: Generation Z
+content: []
+description: ''
